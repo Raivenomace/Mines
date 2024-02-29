@@ -1,0 +1,1 @@
+The grid takes a while to load and please do not click on the screen while waiting as this reveals the tiles before the grid is displayed. I asked multiple TA's and :the best option was to display a warning for the user.
